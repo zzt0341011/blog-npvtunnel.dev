@@ -1,0 +1,3 @@
+{ if hugo.IsMultilingual }
+  <script>{{ partial "docs/languages" . }}</script>
+{ end }
