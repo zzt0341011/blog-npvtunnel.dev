@@ -18,7 +18,7 @@ type: docs
 
 | 平台 | 下载1 | 下载2 |
 |------|------|------|
-| 安卓 | googleplay下载 | 网盘下载 |
+| 安卓 | [googleplay下载](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=zh) | 网盘下载 |
 | 苹果 | apple下载 | 用共享id下载 |
 
 
