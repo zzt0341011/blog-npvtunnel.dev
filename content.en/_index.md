@@ -1,84 +1,244 @@
 ---
-title: How to get a free vpn
+title: NPV Tunnel Download and Setup Guide (2026)
+description: Learn how to download, install, and use NPV Tunnel (formerly NapsternetV). Complete tutorial for Android and iPhone, including subscription import, VLESS Reality support, and configuration encryption.
 type: docs
 ---
 
-In many countries around the world, people are unable to freely access the internet. For example, Russia, India, and Iran. Therefore, I provide [free VPN nodes](https://getfreevpn.info/docs/How-to-use/Get-free-VPN-node/) that are completely free to use as VPNs. They are faster and more secure than traditional VPNs, protect your privacy, avoid identity verification, and allow you to bypass online tracking and censorship.
+# NPV Tunnel Download and Setup Guide
 
-Although free VPNs don't cost money, they come with many limitations and risks, such as stealing user information, using hacking techniques, selling user bandwidth, or being unable to access specific websites or apps like [YouTube](https://www.youtube.com/), Facebook, Netflix, Amazon, etc. Of course, this isn't always the case—some free VPNs are quite popular and trusted, such as [Proton VPN](https://protonvpn.com/), TunnelBear VPN, Hide.me, and [NordVPN](https://nordvpn.com/).
+## What is NPV Tunnel?
 
-Additionally, there are client software programs that allow you to import free VPN nodes or [paid nodes to function as VPNs](https://bnb.lat/buy/1), enabling access to the external internet. There are many such apps, including [v2rayNG](https://github.com/2dust/v2rayNG), [v2box](https://v2box.pro/), [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), and [Hiddify](https://hiddify.me/).
+[NPV Tunnel](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=en) (formerly known as NapsternetV) is a popular proxy client designed primarily for V2Ray and Xray users. The app has more than **10 million downloads** and over **33,000 reviews** on Google Play.
 
-Below are some recommended free VPN clients.
+NPV Tunnel is widely used in Africa, the Middle East, and parts of Asia. Similar to [Shadowrocket](https://shadowrocket.ink/), v2rayN, Clash Meta, [FlClash](https://flclash.xyz/), [Hiddify](https://hiddify.me/), [V2Box](https://v2box.pro/), [MahsaNG](https://mahsang.pro/), [Karing](https://karing.biz/), and [V2RayTun](https://play.google.com/store/search?q=v2raytun&c=apps), it is a **proxy client application**, not a VPN or proxy provider.
 
+NPV Tunnel supports most mainstream protocols, including:
 
-## Download VPN Client
+- [VLESS](https://vless.app/)
+- VMess
+- Trojan
+- Shadowsocks
+- SOCKS5
 
-- Android：   [v2rayNG](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayNG/)         [hiddify](https://getfreevpn.info/docs/How-to-use/Download-and-use-hiddify/)    [karing](https://getfreevpn.info/docs/How-to-use/Download-and-use-karing/)
+The application is available for both **Android and iOS**.
 
-- Windows：  [v2rayn](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayn/)        [hiddify](https://getfreevpn.info/docs/How-to-use/Download-and-use-hiddify/)     [karing](https://getfreevpn.info/docs/How-to-use/Download-and-use-karing/)
+With the popularity of AI tools, NPV Tunnel allows users to access services such as [ChatGPT](https://chatgpt.com) and [Claude](https://claude.ai), as well as websites including YouTube, Facebook, Netflix, and Amazon.
 
-- MAC：        [stash](https://getfreevpn.info/docs/How-to-use/Download-and-use-stash/)           [v2box](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2box/)        [karing](https://getfreevpn.info/docs/How-to-use/Download-and-use-karing/)
+![npvtunnel-101.jpg](https://npvtunnel.dev/img/npvtunnel-101.jpg)
 
-- ios：    [shadowrocket](https://getfreevpn.info/docs/How-to-use/Download-and-use-shadowrocket/)     [stash](https://getfreevpn.info/docs/How-to-use/Download-and-use-stash/)        [v2box](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2box/)   [hiddify](https://getfreevpn.info/docs/How-to-use/Download-and-use-hiddify/)
+---
 
-## Recommended Services
+# Download and Installation
 
-* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
-* After purchasing data, there’s no time limit — you can use it until the data runs out.
+| Platform | Download Option 1 | Download Option 2 |
+|----------|------------------|------------------|
+| Android | Google Play | Cloud Drive Download |
+| iPhone/iOS | App Store | Shared Apple ID |
 
-| Name                                                                          | Price   | Data | Number of Nodes |
-| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
-| [Mojie](https://mojie.kim/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
-| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
-| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)                 | 15 RMB  | 200G | 30              |
-| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
-| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
+---
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+# Main Features of NPV Tunnel
 
-## Import VPN node
+## 1. Encrypted Configuration Files
 
-- [Click here for our free vpn node](https://getfreevpn.info/docs/How-to-use/Get-free-VPN-node/)
+One of the biggest advantages of NPV Tunnel is its support for encrypted configuration files:
 
-```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?encryption=none&security=none&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fed%3D2560#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80?encryption=none&security=none&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?encryption=none&security=none&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fed#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?encryption=none&security=none&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fedfp#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?encryption=none&security=none&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?encryption=none&security=none&type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&path=%2F%3Fed%3D1080%2Ftelegram%40v2ray%5C_alpha#https%3A%2F%2Fbnb.lat%2Fbuy%2F3
-```
+- `.npvt`
+- `.npv`
+- `.npv4`
+- `.inpv`
 
-- Install the software, then open the software, click on servers
+Benefits:
 
-![v2rayn-en-001.png](https://getfreevpn.info/img/v2rayn-en-001.png)
+- Users cannot view the real node information.
+- Device binding is supported.
+- Prevents subscription sharing.
+- Configuration files can be encrypted.
 
-- Right-click on the node with the mouse, then left-click on "Set as active server"
+---
 
-![v2rayn-en-002.png](https://getfreevpn.info/img/v2rayn-en-002.png)
+## 2. Reality Protocol Support
 
-- At the bottom of the v2rayN software, find the system proxy option, then click on "Automatically configure system proxy"
+The latest version supports:
 
-![v2rayn-en-003.png](https://getfreevpn.info/img/v2rayn-en-003.png)
+- VLESS Reality
+- Trojan
+- Shadowsocks
+- New Xray features
 
-Now you can try to connect to the network! If you can't connect, please buy a more stable node! Only $5 a year
+---
 
+## 3. Multiple Import Methods
 
+NPV Tunnel supports:
 
+- URL import
+- QR code import
+- Clipboard import
+- Subscription import
+- Configuration file import
 
+---
 
-- [Download and use karing](https://getfreevpn.info/docs/How-to-use/Download-and-use-karing/)
-- [Download and use v2box](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2box/)
-- [Download and use stash](https://getfreevpn.info/docs/How-to-use/Download-and-use-stash/)
-- [Download and use v2rayNG](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayNG/)
-- [Download and use v2rayn](https://getfreevpn.info/docs/How-to-use/Download-and-use-v2rayn/)
-- [Download and use shadowrocket](https://getfreevpn.info/docs/How-to-use/Download-and-use-shadowrocket/)
-- [Download and use hiddify](https://getfreevpn.info/docs/How-to-use/Download-and-use-hiddify/)
+## 4. Traffic Statistics
 
+The latest version provides:
 
+- Real-time speed monitoring
+- Upload and download statistics
+- Connection logs
+- Error logs
+
+---
+
+# NPV Tunnel vs Shadowrocket
+
+| Feature | NPV Tunnel | Shadowrocket |
+|----------|------------|--------------|
+| iOS Support | ✔ | ✔ |
+| Android Support | ✔ | ✘ |
+| VLESS Reality | ✔ | ✔ |
+| Configuration Encryption | ✔ | Basic |
+| Device Binding | ✔ | ✘ |
+| Rule-based Routing | Average | Excellent |
+| User Interface | Average | Excellent |
+| Ads | Yes | No |
+
+---
+
+# Community Reviews
+
+### Pros
+
+✅ Free to use
+
+✅ Supports many protocols
+
+✅ Device locking support
+
+✅ Easy subscription import
+
+✅ Available on Android and iOS
+
+✅ Suitable for proxy service providers distributing encrypted configurations
+
+### Cons
+
+❌ User interface is relatively basic
+
+❌ Contains advertisements
+
+---
+
+# How to Use NPV Tunnel
+
+## Step 1: Purchase a Proxy Subscription
+
+- Choose a reliable proxy service provider.
+- In this tutorial, we use Wangji Express as an example.
+- Click to visit: [Wangji Express](https://1.jnk.ink/ad2RVl)
+- Register an account using your email address.
+
+![npvtunnel-102.jpg](https://npvtunnel.dev/img/npvtunnel-102.jpg)
+
+After registration:
+
+- Sign in to your account.
+- Open the Store page.
+- Select a package.
+
+Recommended packages:
+
+- 20GB for ¥6.8
+- 100GB for ¥24
+
+These plans do not expire and remain valid until the traffic is used up.
+
+![npvtunnel-103.jpg](https://npvtunnel.dev/img/npvtunnel-103.jpg)
+
+Pay using:
+
+- Alipay
+- WeChat Pay
+
+![npvtunnel-104.jpg](https://npvtunnel.dev/img/npvtunnel-104.jpg)
+
+---
+
+## Step 2: Import the Subscription
+
+After purchasing:
+
+- Return to the homepage.
+- Scroll down.
+- Select:
+
+`v2rayNG → Subscription → Copy Subscription`
+
+![npvtunnel-105.jpg](https://npvtunnel.dev/img/npvtunnel-105.jpg)
+
+Open NPV Tunnel:
+
+- Tap **Subs**
+- Tap the **+** icon
+- Select **From URL**
+- Enter a name, for example:
+
+`Wangji Express`
+
+- Paste the subscription URL.
+- Tap **OK**.
+
+![npvtunnel-106.jpg](https://npvtunnel.dev/img/npvtunnel-106.jpg)
+
+Finally:
+
+- Return to the homepage.
+- Tap the refresh icon.
+- Select a node.
+- Enable the proxy connection.
+
+![npvtunnel-107.jpg](https://npvtunnel.dev/img/npvtunnel-107.jpg)
+
+---
+
+# Recommended Proxy Providers
+
+The following providers charge based on traffic usage and offer installation tutorials on their websites.
+
+Purchased traffic does not expire and remains valid until fully consumed.
+
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Magic Ring](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
+| [Wangji Express](https://1.jnk.ink/ad2RVl) | ¥7 | 20GB | 54 |
+| [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
+| [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
+| [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
+| [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
+| [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
+| [FSCloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
+
+---
+
+## Frequently Asked Questions
+
+### Is NPV Tunnel free?
+
+Yes. NPV Tunnel is free to download and use, although some features may include advertisements.
+
+### Does NPV Tunnel support VLESS Reality?
+
+Yes. The latest version fully supports VLESS Reality and other modern Xray protocols.
+
+### Is NPV Tunnel available on iPhone?
+
+Yes. NPV Tunnel is available for both Android and iOS devices.
+
+### Can I use NPV Tunnel to access ChatGPT and Claude?
+
+Yes. After configuring a working proxy subscription, you can access ChatGPT, Claude, YouTube, Netflix, Facebook, Amazon, and other global services.
+
+---
+
+**Contact:** leeulen60@gmail.com

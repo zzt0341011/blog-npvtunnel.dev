@@ -1,55 +1,236 @@
 ---
-title: Получите бесплатный VPN
+
+title: Скачать NPV Tunnel и руководство по использованию (2026)
+description: Узнайте, как скачать, установить и настроить NPV Tunnel (бывший NapsternetV) на Android и iPhone. Полное руководство по импорту подписок, поддержке VLESS Reality и шифрованию конфигураций.
+keywords: NPV Tunnel, скачать NPV Tunnel, NapsternetV, NPV Tunnel iOS, NPV Tunnel Android, VLESS Reality, настройка NPV Tunnel, бесплатный VPN клиент
 type: docs
+----------
+
+# Скачать NPV Tunnel и руководство по использованию
+
+## Что такое NPV Tunnel?
+
+[NPV Tunnel](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=ru) (ранее известный как NapsternetV) — популярный клиент для работы с прокси-сетями, предназначенный в первую очередь для пользователей V2Ray и Xray. Приложение имеет более **10 миллионов загрузок** и свыше **33 тысяч отзывов** в Google Play.
+
+NPV Tunnel широко используется в Африке, на Ближнем Востоке и в некоторых странах Азии. По функциональности он похож на Shadowrocket, v2rayN, Clash Meta, FlClash, Hiddify, V2Box, MahsaNG, Karing и V2RayTun. Это именно **клиент для подключения к прокси**, а не поставщик VPN-услуг.
+
+Поддерживаемые протоколы:
+
+* VLESS
+* VMess
+* Trojan
+* Shadowsocks
+* SOCKS5
+
+Приложение доступно для **Android** и **iOS**.
+
+С помощью NPV Tunnel можно получить доступ к сервисам:
+
+* ChatGPT
+* Claude
+* YouTube
+* Facebook
+* Netflix
+* Amazon
+
+и многим другим зарубежным сайтам и приложениям.
+
+![npvtunnel-101.jpg](https://npvtunnel.dev/img/npvtunnel-101.jpg)
+
 ---
 
-Во многих странах мира люди не могут свободно пользоваться интернетом. Например, в России, Индии, Иране и других странах. Поэтому я предоставляю бесплатные VPN-узлы, которые полностью бесплатны и могут использоваться как VPN. Они быстрее и безопаснее, чем традиционные VPN, защищают вашу конфиденциальность, обходят необходимость аутентификации и позволяют избегать интернет-отслеживания и цензуры.
+# Скачать и установить NPV Tunnel
 
-Хотя бесплатные VPN не требуют денег, они имеют много ограничений и рисков, таких как кража пользовательской информации, использование хакерских технологий, продажа ширины канала пользователей или невозможность доступа к определённым сайтам и приложениям, таким как [YouTube](https://www.youtube.com/), [Facebook](https://www.facebook.com/), [Netflix](https://www.netflix.com/), [Amazon](https://www.amazon.com/) и другие. Однако это не всегда так: есть популярные и безопасные бесплатные VPN, например [Proton VPN](https://protonvpn.com/), [TunnelBear VPN](https://www.tunnelbear.com/), [Hide.me](https://hide.me/) и [NordVPN](https://nordvpn.com/).
+| Платформа   | Способ загрузки №1 | Способ загрузки №2           |
+| ----------- | ------------------ | ---------------------------- |
+| Android     | Google Play        | Скачать с облачного диска    |
+| iPhone/iPad | App Store          | Скачать через общий Apple ID |
 
-Кроме того, существуют клиентские программы, которые позволяют импортировать бесплатные или платные VPN-узлы для выполнения функций VPN, обеспечивая доступ к внешнему интернету. Примеры таких программ: [v2rayNG](https://github.com/2dust/v2rayNG), [v2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Hiddify](https://github.com/hiddify/hiddify-next) и другие.
+---
 
-Ниже приведены некоторые рекомендуемые бесплатные VPN-клиенты.
+# Основные возможности NPV Tunnel
 
+## 1. Поддержка зашифрованных конфигурационных файлов
 
-## Скачать VPN-клиент
+NPV Tunnel поддерживает следующие форматы:
 
-- Android：   [v2rayNG](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-v2rayNG/)         [hiddify](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Hiddify/)    [karing](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Karing/)
+* `.npvt`
+* `.npv`
+* `.npv4`
+* `.inpv`
 
-- Windows：  [v2rayn](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-v2rayN/)        [hiddify](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Hiddify/)     [karing](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Karing/)
+Преимущества:
 
-- MAC：        [stash](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Stash/)           [v2box](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-v2box/)        [karing](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Karing/)
+* Пользователи не могут просматривать реальные данные узлов.
+* Возможность привязки к устройству.
+* Защита от передачи подписки третьим лицам.
+* Поддержка шифрования конфигураций.
 
-- ios：    [shadowrocket](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Shadowrocket/)     [stash](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Stash/)        [v2box](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-v2box/)   [hiddify](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D0%B9%D1%82%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5-Hiddify/)
+---
 
-## Импортировать VPN-узел
+## 2. Поддержка Reality
 
-- [Нажмите здесь, чтобы получить наш бесплатный VPN-узел](https://getfreevpn.info/ru/docs/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B5-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-VPN-%D1%83%D0%B7%D0%B5%D0%BB/)
-- После получения VPN-узлов, как их импортировать в VPN-программу
+Последняя версия поддерживает:
 
+* VLESS Reality
+* Trojan
+* Shadowsocks
+* Новые функции Xray
 
-## Рекомендуемые прокси-провайдеры
+---
 
-| Поставщик услуг | Цена | Примечания |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
-| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
+## 3. Несколько способов импорта конфигураций
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+Поддерживаются:
 
+* Импорт по ссылке
+* Импорт через QR-код
+* Импорт из буфера обмена
+* Импорт подписки
+* Импорт файла конфигурации
 
-## Используйте более стабильные и быстрые VPN-узлы
-- VPN-узлы, которые мы предоставляем, приходят из интернета
-- Хотя некоторые VPN-узлы очень быстры
-- Однако мы не можем гарантировать безопасность и стабильность этих VPN-узлов.
-- Поэтому, если вы хотите получить лучшее обслуживание
+---
 
+## 4. Статистика трафика
 
+Новая версия предоставляет:
 
+* Отображение скорости в реальном времени
+* Статистику загрузки и выгрузки
+* Журнал подключений
+* Журнал ошибок
 
+---
+
+# Сравнение NPV Tunnel и Shadowrocket
+
+| Функция                   | NPV Tunnel | Shadowrocket |
+| ------------------------- | ---------- | ------------ |
+| Поддержка iOS             | ✔          | ✔            |
+| Поддержка Android         | ✔          | ✘            |
+| VLESS Reality             | ✔          | ✔            |
+| Шифрование конфигураций   | ✔          | Ограничено   |
+| Привязка к устройству     | ✔          | ✘            |
+| Маршрутизация по правилам | Средняя    | Отличная     |
+| Интерфейс                 | Средний    | Отличный     |
+| Реклама                   | Есть       | Нет          |
+
+---
+
+# Отзывы пользователей
+
+## Преимущества
+
+✅ Бесплатное использование
+
+✅ Поддержка множества протоколов
+
+✅ Поддержка блокировки устройства
+
+✅ Простой импорт подписок
+
+✅ Доступно на Android и iOS
+
+✅ Удобно для поставщиков прокси-услуг
+
+## Недостатки
+
+❌ Интерфейс выглядит немного устаревшим
+
+❌ В приложении присутствует реклама
+
+---
+
+# Как использовать NPV Tunnel
+
+## Шаг 1. Купить подписку на прокси-сервис
+
+* Выберите надежного поставщика прокси.
+* Зарегистрируйте учетную запись, используя электронную почту.
+* Выберите подходящий тариф.
+
+Например:
+
+* 20 ГБ за ¥6.8
+* 100 ГБ за ¥24
+
+Трафик не имеет срока действия и действует до полного использования.
+
+![npvtunnel-102.jpg](https://npvtunnel.dev/img/npvtunnel-102.jpg)
+
+![npvtunnel-103.jpg](https://npvtunnel.dev/img/npvtunnel-103.jpg)
+
+![npvtunnel-104.jpg](https://npvtunnel.dev/img/npvtunnel-104.jpg)
+
+---
+
+## Шаг 2. Импорт подписки
+
+После оплаты:
+
+1. Откройте страницу подписки.
+2. Скопируйте ссылку подписки.
+3. Откройте NPV Tunnel.
+4. Нажмите **Subs**.
+5. Нажмите кнопку **+**.
+6. Выберите **From URL**.
+7. Введите имя подписки.
+8. Вставьте ссылку и нажмите **OK**.
+
+![npvtunnel-105.jpg](https://npvtunnel.dev/img/npvtunnel-105.jpg)
+
+![npvtunnel-106.jpg](https://npvtunnel.dev/img/npvtunnel-106.jpg)
+
+---
+
+## Подключение к серверу
+
+1. Вернитесь на главную страницу.
+2. Обновите список серверов.
+3. Выберите нужный узел.
+4. Включите подключение.
+
+![npvtunnel-107.jpg](https://npvtunnel.dev/img/npvtunnel-107.jpg)
+
+---
+
+# Рекомендуемые прокси-провайдеры
+
+* Оплата производится только за использованный трафик.
+* На сайтах доступны инструкции по установке и настройке.
+* Купленный трафик не имеет срока действия.
+
+| Название       | Цена | Трафик  | Узлов |
+| :------------- | :--- | :------ | :---- |
+| Magic Ring     | ¥1   | 1 ГБ    | 30    |
+| Wangji Express | ¥7   | 20 ГБ   | 54    |
+| Niubi          | ¥14  | 200 ГБ  | 31    |
+| Feitu          | ¥30  | 100 ГБ  | 80    |
+| Nongfu Spring  | ¥45  | 200 ГБ  | 40    |
+| Baobei Cloud   | ¥55  | 600 ГБ  | 64    |
+| Freedom Cat    | ¥89  | 200 ГБ  | 71    |
+| FSCloud        | ¥99  | 1000 ГБ | 82    |
+
+---
+
+# Часто задаваемые вопросы
+
+### NPV Tunnel бесплатный?
+
+Да, приложение можно скачать и использовать бесплатно.
+
+### Поддерживает ли NPV Tunnel VLESS Reality?
+
+Да, последняя версия полностью поддерживает протокол VLESS Reality.
+
+### Доступен ли NPV Tunnel для iPhone?
+
+Да, приложение доступно для iPhone и iPad.
+
+### Можно ли использовать NPV Tunnel для доступа к ChatGPT и Claude?
+
+Да. После настройки рабочего прокси вы сможете пользоваться ChatGPT, Claude, YouTube, Netflix, Facebook, Amazon и другими сервисами.
+
+---
+
+**Контакт:** [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
