@@ -24,13 +24,13 @@ socks://VDJjbE0wUWxNMFE2Og%3D%3D@121.169.46.116:1090#%E9%9F%93%E5%9C%8B%E7%AF%80
 - 复制内容，导入软件即可使用
 - 粘贴节点链接，输入名称
 
-![npvtunnel-108.jpg](https://npvtunnel.dev/img/npvtunnel-108.jgp)
+![npvtunnel-108.jpg](https://npvtunnel.dev/img/npvtunnel-108.jpg)
 
 - 返回主页，点击连接按钮
 
 - 选择节点并连接到网络
 
-![npvtunnel-109.jpg](https://npvtunnel.dev/img/npvtunnel-109.jgp)
+![npvtunnel-109.jpg](https://npvtunnel.dev/img/npvtunnel-109.jpg)
 
 
 
