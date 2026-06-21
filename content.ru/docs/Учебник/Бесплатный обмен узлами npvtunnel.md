@@ -1,10 +1,9 @@
 ---
-
 title: Бесплатные конфигурации NPV Tunnel и импорт узлов (2026)
 description: Бесплатные конфигурации для NPV Tunnel, VLESS, Trojan, Shadowsocks и SOCKS5. Узнайте, как импортировать бесплатные узлы в NPV Tunnel на Android и iPhone.
 keywords: бесплатные узлы NPV Tunnel, бесплатные конфигурации VLESS, бесплатные серверы Trojan, бесплатные прокси, импорт конфигурации NPV Tunnel, бесплатный VPN, VLESS nodes
 type: docs
-----------
+---
 
 # Бесплатные конфигурации NPV Tunnel (обновлено: 12 января 2026 г.)
 
