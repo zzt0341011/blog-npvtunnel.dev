@@ -36,7 +36,7 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "7元20G不限时"
+  name = "7元20G不限时间"
   url = "https://1.jnk.ink/ad2RVl"
   weight = 20
 [params]
