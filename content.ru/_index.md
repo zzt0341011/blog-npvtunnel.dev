@@ -4,7 +4,7 @@ title: Скачать NPV Tunnel и руководство по использо
 description: Узнайте, как скачать, установить и настроить NPV Tunnel (бывший NapsternetV) на Android и iPhone. Полное руководство по импорту подписок, поддержке VLESS Reality и шифрованию конфигураций.
 keywords: NPV Tunnel, скачать NPV Tunnel, NapsternetV, NPV Tunnel iOS, NPV Tunnel Android, VLESS Reality, настройка NPV Tunnel, бесплатный VPN клиент
 type: docs
-----------
+---
 
 # Скачать NPV Tunnel и руководство по использованию
 
@@ -44,7 +44,7 @@ NPV Tunnel широко используется в Африке, на Ближ�
 | Платформа   | Способ загрузки №1 | Способ загрузки №2           |
 | ----------- | ------------------ | ---------------------------- |
 | Android     | [Google Play](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=zh)        | Скачать с облачного диска    |
-| iPhone/iPad | App Store          | Скачать через общий Apple ID |
+| iPhone/iPad | [App Store](https://apps.apple.com/us/app/npv-tunnel/id1629465476)          | Скачать через общий Apple ID |
 
 ---
 
