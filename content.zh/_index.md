@@ -19,7 +19,7 @@ type: docs
 | 平台 | 下载1 | 下载2 |
 |------|------|------|
 | 安卓 | [googleplay下载](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=zh) | [网盘下载](https://pan1.mene.lol/s/r8OtP) |
-| 苹果 | [apple下载](https://apps.apple.com/us/app/npv-tunnel/id1629465476) | 用共享id下载 |
+| 苹果 | [apple下载](https://apps.apple.com/us/app/npv-tunnel/id1629465476) | [用共享id下载](https://npvtunnel.dev/zh/docs/npvtunnel%E6%95%99%E7%A8%8B/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDnpvtunnel/) |
 
 
 ---
