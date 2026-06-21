@@ -33,7 +33,7 @@ With the popularity of AI tools, NPV Tunnel allows users to access services such
 | Platform | Download Option 1 | Download Option 2 |
 |----------|------------------|------------------|
 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=zh) | [Cloud Drive Download](https://pan1.mene.lol/s/r8OtP) |
-| iPhone/iOS | [App Store](https://apps.apple.com/us/app/npv-tunnel/id1629465476) | Shared Apple ID |
+| iPhone/iOS | [App Store](https://apps.apple.com/us/app/npv-tunnel/id1629465476) | [Shared Apple ID](https://npvtunnel.dev/docs/How-to-use/How-to-download-npvtunnel-on-an-iPhone/) |
 
 ---
 
