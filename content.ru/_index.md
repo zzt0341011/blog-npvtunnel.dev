@@ -43,7 +43,7 @@ NPV Tunnel широко используется в Африке, на Ближ�
 
 | Платформа   | Способ загрузки №1 | Способ загрузки №2           |
 | ----------- | ------------------ | ---------------------------- |
-| Android     | Google Play        | Скачать с облачного диска    |
+| Android     | [Google Play](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&hl=zh)        | Скачать с облачного диска    |
 | iPhone/iPad | App Store          | Скачать через общий Apple ID |
 
 ---
