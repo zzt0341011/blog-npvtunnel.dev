@@ -25,3 +25,14 @@ git push -u origin main
 git add .
 git commit -m "add blog3"
 git push -u origin main
+git push -f origin main
+
+3. 如果出错，全新提交方法，
+
+rm -rf .git
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/zzt0341011/blog-npvtunnel.dev.git
+git push -f origin main
