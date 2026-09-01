@@ -15,7 +15,6 @@
 | 1 | https://appi.lol |
 | 2 | https://idusr.com |
 | 3 | https://ccbaohe.com/appleID |
-| 4 | https://best.iwanshare.club |
 | 5 | https://best.iwanshare.club/acc1.html |
 | 6 | https://apple.vwo50.buzz/filter_page.php |
 | 8 | https://xhj.ios999.vip |
@@ -27,8 +26,8 @@
 | 14 | https://wukongdy15.top |
 | 15 | https://nnntk.com/share/id |
 | 16 | https://nnntk.com/share/app |
-| 16 | https://www.appstore.autos |
-| 17 | https://id.ali-door.top/share/umoKGeJwOa |
+| 15 | https://www.appstore.autos |
+| 16 | https://id.ali-door.top/share/umoKGeJwOa |
 
 ### 使用方法看图
 
