@@ -15,15 +15,9 @@
 | 1 | https://appi.lol |
 | 2 | https://idusr.com |
 | 3 | https://ccbaohe.com/appleID |
-| 10 | https://xhj.ipaxxs.cn/xhj2 |
-| 11 | https://free.shadowrocket.online |
-| 12 | https://www.lanhaiblog.com/post/3.html |
-| 13 | https://www.fengche666.net/doc/1642 |
-| 14 | https://wukongdy15.top |
-| 15 | https://nnntk.com/share/id |
-| 16 | https://nnntk.com/share/app |
-| 14 | https://www.appstore.autos |
-| 13 | https://id.ali-door.top/share/umoKGeJwOa |
+| 4 | https://free.shadowrocket.online |
+| 5 | https://www.fengche666.net/doc/1642 |
+| 6 | https://www.appstore.autos |
 
 ### 使用方法看图
 
