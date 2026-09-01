@@ -15,7 +15,6 @@
 | 1 | https://appi.lol |
 | 2 | https://idusr.com |
 | 3 | https://ccbaohe.com/appleID |
-| 9 | https://xhj.ipaxxs.cn |
 | 10 | https://xhj.ipaxxs.cn/xhj2 |
 | 11 | https://free.shadowrocket.online |
 | 12 | https://www.lanhaiblog.com/post/3.html |
