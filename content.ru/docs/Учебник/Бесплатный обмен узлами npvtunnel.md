@@ -46,7 +46,6 @@ trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&alpn=http
 trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%A8yoyapai.com
 ```
 
----
 
 # Импорт конфигурации из буфера обмена
 
