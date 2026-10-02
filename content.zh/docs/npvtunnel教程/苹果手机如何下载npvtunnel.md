@@ -9,15 +9,17 @@
 - 友情提示，有些id可能不能使用，更换即可
 - 下载完应用以后，请马上退出苹果账号
 - 请务必登录苹果商店，不要在设置里面登录
-- 最后更新时间：2026年9月8日
+- 最后更新时间：2026年10月02日
 
-| 账号 | 密码 |
-|------|------|
-| david7zksmunoz@hotmail.com | TzTx3!zd |
-| DeborazpiHarr967@icloud.com | x5Qt9ch9m9 |
-| jarvarisrivetteuf3409@gmail.com | VG7j2eeg4C |
-| AllenMilliepyl879@gmail.com | 44s41NP3MD5pf3 |
-| BettyGarcia5be56@gmail.com | 44s4nrRa3yZnJ5 |
+```
+vgilesgh42@gmail.com ---- 4HWwRkya6B
+13653311008@163.com ---- dxxaUM4bUc
+MirandzpiHugh848@icloud.com ---- spkV7Q52C1
+15949487368@163.com ---- C32NXuWfP6
+qfvblj2968@163.com ---- 1qNQ2sDUJ1
+uchtredmagowandf5018@gmail.com ---- Y3B9gtum4K
+15545231839@163.com ---- nA1RKfzdDa
+```
 
 ### 2、购买成品美国苹果id
 
