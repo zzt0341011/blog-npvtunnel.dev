@@ -28,17 +28,16 @@ type: docs
 # Список бесплатных узлов
 
 ```text
-socks://Og%3D%3D@171.25.158.95:1080#%F0%9F%87%B8%F0%9F%87%AASE_11%7C332KB%2Fs%7CP002-260618%2001
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433?sni=de1.xiaoliyu.cyou&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_32%7C4.0MB%2Fs%7CA004-260618%2001
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&insecure=0#%F0%9F%87%B7%F0%9F%87%BARU_2%7C1.5MB%2Fs%7CA004-260618%2001
-vless://9fa2fae0-141a-b983-ef0e-b3d5633f9592@1579e6d9-6b57-4fb1-b080-9c9a6da46ae5.fly.dev:443?encryption=none&security=tls&sni=1579e6d9-6b57-4fb1-b080-9c9a6da46ae5.fly.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=xhttp&path=%2Fxhttp-siz10%2Fstream-up%2F9fa2fae0-141a-b983-ef0e-b3d5633f9592&mode=stream-up#%F0%9F%87%BA%F0%9F%87%B8US_441%7C748KB%2Fs%7CV006-260618%2001
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.141:8443?sni=hop-germany-september.dynuddns.com&insecure=0#%F0%9F%87%A9%F0%9F%87%AADE_153%7C6.3MB%2Fs%7CA004-260618%2001
-socks://Og%3D%3D@5.255.117.250:1080#%F0%9F%87%B3%F0%9F%87%B1NL_247%7C1.4MB%2Fs%7CR002-260618%2001
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&host=zhilegelian1.bpca2026.top&path=%2Fimages#%E2%9D%93Other_61%7C414KB%2Fs%7CM001-260618%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-001.fastervpn.world:443?sni=vpn-au-001.fastervpn.world&insecure=1#%F0%9F%87%A6%F0%9F%87%BAAU_6%7C405KB%2Fs%7CA004-260618%2001
-socks://Og%3D%3D@185.195.71.218:18080#%F0%9F%87%A8%F0%9F%87%ADCH_15%7C1.1MB%2Fs%7CR002-260618%2001
-hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?sni=www.bing.com&obfs=salamander&obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_233%7C234KB%2Fs%7CR002-260618%2001
-hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@covers.pantera-radio.ru:443?sni=covers.pantera-radio.ru&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_109%7C8.9MB%2Fs%7CV009-260618%2001
+vless://d934fee8-8578-4b53-a818-4872bc28601b@freev2.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=us-lax.862400.xyz&fp=random&type=ws&host=us-lax.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US544%7C5.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US
+vless://157bf3e0-9467-4600-9b76-71323f7ef14e@104.207.132.12:30002?encryption=none&security=none&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%20195934
+vless://ef8c7169-87fc-49ad-be91-1f3984ab446d@mog.keyblack.site:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=DQGwrxOgoiyBDrbdFUofP88FGtxHDA2duzNXKkyxaig&sid=6ba85179e30d4fc2&type=tcp&headerType=none#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40Raydikalx%20%7C%20A8A44E
+vless://c3db7657-88ce-42a6-b998-1e0364b277ac@87.242.127.176:4510?encryption=none&flow=xtls-rprx-vision&security=reality&sni=9c99da.usecache.net&fp=firefox&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&sid=2d0c188798bae174&type=tcp&headerType=none#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%40Raydikalx%20%7C%2091C3E6
+vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@free.sahanwickramasinghe.me:80?encryption=none&security=none&type=ws&host=free.sahanwickramasinghe.me&path=%2F#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%20BBF09D
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@us3.h1cloud.net:25716?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=WoTuWxASXYyZSQS6jZiAHsAj6EChWOicCxFfm8F_GXg&sid=5d3afa5648fadb1e&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%20706587
+vless://0de1d303-d7de-41b7-8679-c4cb67e2e2cc@45.147.28.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40Raydikalx%20%7C%204D70DC
+vless://c136a12c-4260-48a7-a1e6-fbda83a11045@centurylink.es:8443?encryption=none&security=tls&sni=free.sahanwickramasinghe.me&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=free.sahanwickramasinghe.me&path=%2F#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40Raydikalx%20%7C%207636E9
+vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?encryption=none&security=none&type=ws&host=free.sahanwickramasinghe.me&path=%2F#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%20663596
+vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@us3.h1cloud.net:25717?encryption=none&security=reality&sni=www.icloud.com&fp=random&pbk=JCvFvv5_pD6JM9CTAaAay7mr831D-1Erz3M62Fikg18&sid=adc760c77e5d1b1b&spx=%2F&type=grpc&authority=&serviceName=be76031e00f1&mode=gun#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%2082F41C
 ```
 
 
