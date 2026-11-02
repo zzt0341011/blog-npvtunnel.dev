@@ -5,7 +5,7 @@ keywords: бесплатные узлы NPV Tunnel, бесплатные кон�
 type: docs
 ---
 
-# Бесплатные конфигурации NPV Tunnel (обновлено: 2026/10/22)
+# Бесплатные конфигурации NPV Tunnel (обновлено: 2026/11/02)
 
 Ниже приведены бесплатные прокси-узлы, собранные из открытых источников в интернете. Они предоставляются **исключительно для тестирования и образовательных целей**.
 
@@ -28,16 +28,15 @@ type: docs
 # Список бесплатных узлов
 
 ```text
-trojan://humanity@209.38.99.120:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&type=ws&path=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1NL_353%7C449KB%2Fs%7CT001-260618%20%5Bdddda21e583c%5D
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_61%7C85KB%2Fs%7CP002-260618%20%5B619f6832c28b%5D
-vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@www.gov.se:8080?encryption=none&security=none&sni=www.gov.se&type=ws&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&path=%2F#%F0%9F%87%AB%F0%9F%87%B7FR_24%7C836KB%2Fs%7CT001-260618%20%5B60fc689a657f%5D
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-sh-185.spbstudentlife.com&fp=randomized&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&sid=8d942904d3e87323&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL_379%7C403KB%2Fs%20%5B01354a6180fc%5D
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E8%8D%B7%E5%85%B0%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E8%8D%B7%E5%85%B0%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%7D#%E8%8D%B7%E5%85%B0%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
+vless://dbdd5368-4cba-4c98-be30-00acac885f9b@45.78.53.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.214.209.37:443?sni=www.bing.com&insecure=1&pinSHA256=C1%3AFD%3A40%3A94%3A1F%3A91%3A9B%3A5C%3A78%3A96%3A24%3A40%3A97%3AF2%3A2D%3A9D%3A95%3A8E%3A62%3A5C%3AD9%3A58%3AB7%3A5F%3A34%3ACC%3AFA%3A42%3A18%3A1F%3A50%3AB2#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=qq&alpn=http%2F1.1%2Ch2&type=tcp&headerType=none#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9111
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD%E4%B8%A8yoyapai.com
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.209.18.208:443?sni=www.bing.com&insecure=1#hysteria2-1886174142
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
 ```
 
 
